@@ -18,6 +18,7 @@
   scroll-behavior: smooth;
 }
 
+
 .bg-turquesa {
   background-color: #95c7de !important;
 }
@@ -253,6 +254,8 @@ section {
     transition-delay: 0 !important;
   }
 }
+
+
 
 /*--------------------------------------------------------------
 # Header
@@ -588,7 +591,7 @@ section {
   padding-left: 20px;
   font-size: 15px;
   font-family: var(--font-default);
-  border-left: 2px solid #fa5e3b;
+  border-left: 2px solid white;
   margin: 40px 0;
 }
 
